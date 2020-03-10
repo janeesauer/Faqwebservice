@@ -1,0 +1,15 @@
+{
+  "name": "faq-service",
+  "version": "1.0.0",
+  "description": "Frequently asked questions service.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jane and Dave",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "react": "^16.13.0"
+  }
+}
